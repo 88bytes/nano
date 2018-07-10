@@ -25,7 +25,7 @@ var (
 	}{}
 
 	// timerPrecision indicates the precision of timer, default is time.Second
-	timerPrecision = time.Millisecond
+	timerPrecision = time.Microsecond
 
 	// globalTicker represents global ticker that all cron job will be executed
 	// in globalTicker.
