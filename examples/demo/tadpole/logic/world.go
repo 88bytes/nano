@@ -5,10 +5,10 @@ import (
 	"log"
 
 	"github.com/google/uuid"
-	"github.com/lonnng/nano"
-	"github.com/lonnng/nano/component"
-	"github.com/lonnng/nano/examples/demo/tadpole/logic/protocol"
-	"github.com/lonnng/nano/session"
+	"github.com/88bytes/nano"
+	"github.com/88bytes/nano/component"
+	"github.com/88bytes/nano/examples/demo/tadpole/logic/protocol"
+	"github.com/88bytes/nano/session"
 )
 
 // World contains all tadpoles
